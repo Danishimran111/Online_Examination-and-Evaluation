@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "Which language is mainly used for Data Science?",
+        "options": {
+            "A": "Python",
+            "B": "HTML",
+            "C": "CSS",
+            "D": "XML"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 2,
+        "question": "Which keyword is used to define a function in Python?",
+        "options": {
+            "A": "function",
+            "B": "def",
+            "C": "define",
+            "D": "fun"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 3,
+        "question": "Which data type stores key-value pairs in Python?",
+        "options": {
+            "A": "List",
+            "B": "Tuple",
+            "C": "Dictionary",
+            "D": "Set"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 4,
+        "question": "Which library is commonly used for data analysis?",
+        "options": {
+            "A": "Pandas",
+            "B": "Django",
+            "C": "Flask",
+            "D": "Tkinter"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 5,
+        "question": "Which symbol is used for comments in Python?",
+        "options": {
+            "A": "//",
+            "B": "/*",
+            "C": "#",
+            "D": "--"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 6,
+        "question": "Which function is used to get input from the user?",
+        "options": {
+            "A": "scan()",
+            "B": "input()",
+            "C": "read()",
+            "D": "get()"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 7,
+        "question": "Which keyword is used to create a class in Python?",
+        "options": {
+            "A": "object",
+            "B": "class",
+            "C": "struct",
+            "D": "create"
+        },
+        "answer": "B"
+    },
+    {
+        "id": 8,
+        "question": "Which method adds an item to the end of a list?",
+        "options": {
+            "A": "add()",
+            "B": "insert()",
+            "C": "append()",
+            "D": "push()"
+        },
+        "answer": "C"
+    },
+    {
+        "id": 9,
+        "question": "Which keyword is used to handle exceptions?",
+        "options": {
+            "A": "try",
+            "B": "check",
+            "C": "error",
+            "D": "catch"
+        },
+        "answer": "A"
+    },
+    {
+        "id": 10,
+        "question": "Which operator is used for exponentiation in Python?",
+        "options": {
+            "A": "^",
+            "B": "**",
+            "C": "//",
+            "D": "%%"
+        },
+        "answer": "B"
+    }
+]

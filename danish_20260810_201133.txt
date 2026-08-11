@@ -1,0 +1,164 @@
+
+========================================================
+              ONLINE EXAMINATION REPORT
+========================================================
+
+Student Name       : danish
+
+Attempt Number     : 1
+
+Date & Time        : 10-08-2026 20:11:33
+
+--------------------------------------------------------
+
+Score              : 10/10
+
+Correct Answers    : 10
+
+Wrong Answers      : 0
+
+Unanswered         : 0
+
+Accuracy           : 100.00%
+
+Time Taken         : 00:59
+
+Time Efficiency    : 0.85%
+
+Performance        : Excellent
+
+Submission Type    : Auto Submitted
+
+========================================================
+                  QUESTION ANALYSIS
+========================================================
+
+
+Question ID       : 5
+
+Question          : Which symbol is used for comments in Python?
+
+Your Answer       : C
+
+Correct Answer    : C
+
+Result            : Correct
+
+--------------------------------------------------------
+
+
+Question ID       : 2
+
+Question          : Which keyword is used to define a function in Python?
+
+Your Answer       : B
+
+Correct Answer    : B
+
+Result            : Correct
+
+--------------------------------------------------------
+
+
+Question ID       : 3
+
+Question          : Which data type stores key-value pairs in Python?
+
+Your Answer       : C
+
+Correct Answer    : C
+
+Result            : Correct
+
+--------------------------------------------------------
+
+
+Question ID       : 6
+
+Question          : Which function is used to get input from the user?
+
+Your Answer       : B
+
+Correct Answer    : B
+
+Result            : Correct
+
+--------------------------------------------------------
+
+
+Question ID       : 10
+
+Question          : Which operator is used for exponentiation in Python?
+
+Your Answer       : B
+
+Correct Answer    : B
+
+Result            : Correct
+
+--------------------------------------------------------
+
+
+Question ID       : 8
+
+Question          : Which method adds an item to the end of a list?
+
+Your Answer       : C
+
+Correct Answer    : C
+
+Result            : Correct
+
+--------------------------------------------------------
+
+
+Question ID       : 4
+
+Question          : Which library is commonly used for data analysis?
+
+Your Answer       : A
+
+Correct Answer    : A
+
+Result            : Correct
+
+--------------------------------------------------------
+
+
+Question ID       : 7
+
+Question          : Which keyword is used to create a class in Python?
+
+Your Answer       : B
+
+Correct Answer    : B
+
+Result            : Correct
+
+--------------------------------------------------------
+
+
+Question ID       : 9
+
+Question          : Which keyword is used to handle exceptions?
+
+Your Answer       : A
+
+Correct Answer    : A
+
+Result            : Correct
+
+--------------------------------------------------------
+
+
+Question ID       : 1
+
+Question          : Which language is mainly used for Data Science?
+
+Your Answer       : A
+
+Correct Answer    : A
+
+Result            : Correct
+
+--------------------------------------------------------
